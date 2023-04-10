@@ -9,11 +9,14 @@ The website is built using various technologies, including Bootstrap, HTML, CSS,
 
 
 ## Home Page
-<img src = "images/home.png">
+<img src = "https://github.com/fitsumM12/XYZ-company/blob/main/Image/home.png">
 
+
+## Login page
+<img src = "https://github.com/fitsumM12/XYZ-company/blob/main/Image/login.png">
 
 ## Admin Dashboard
-<img src = "images/admin.png">
+<img src = "https://github.com/fitsumM12/XYZ-company/blob/main/Image/admin.png">
 
 # For More
 Reach me out through available option from my profile.
