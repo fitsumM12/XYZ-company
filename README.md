@@ -38,7 +38,7 @@ To set up the project on your local machine, follow these steps:
 
 bash
 
-git clone https://github.com/<username>/<repository-name>.git
+git clone https://github.com/fitsumM12/XYZ-company.git
 
     Install XAMPP Server and start the Apache and MySQL services.
 
@@ -46,7 +46,7 @@ git clone https://github.com/<username>/<repository-name>.git
 
     Update the database credentials in the config.php file.
 
-    Open the web application by navigating to http://localhost/<repository-name>/index.php in your web browser.
+    Open the web application by navigating to http://localhost/XYZ-company/home/index.php in your web browser.
 
 ## Conclusion
 
